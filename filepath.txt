@@ -1,0 +1,15 @@
+- controller
+hrm-3.1.6\script\app\Http\Controllers\Admin\HolidaysController.php
+
+-model
+hrm-3.1.6\script\app\Models\Employee.php
+hrm-3.1.6\script\app\Models\Attendance.php
+hrm-3.1.6\script\app\Models\Preassign.php
+
+-migration
+hrm-3.1.6\script\database\migrations\2020_06_24_171848_create_preassign_table.php
+
+-view
+hrm-3.1.6\script\resources\views\admin\leave_applications\index.blade.php	
+hrm-3.1.6\script\resources\views\admin\holidays\index.blade.php
+hrm-3.1.6\script\resources\views\front\leave.blade.php
